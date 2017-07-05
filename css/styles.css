@@ -1,4 +1,8 @@
-p  {
+#story  {
   display: none;
   font-size: 20px;
+}
+body  {
+    background: linear-gradient(to left, #ffff66 0%, #ff66ff 100%);
+    font-family: fantasy;
 }
